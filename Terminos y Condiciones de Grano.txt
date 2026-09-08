@@ -1,0 +1,67 @@
+POLÍTICA DE PRIVACIDAD Y TÉRMINOS DE SERVICIO DE GRANO
+
+Última actualización: 6 de septiembre de 2026
+
+1. INFORMACIÓN GENERAL Y ACEPTACIÓN
+La presente Política de Privacidad y Términos de Servicio regulan el uso de la aplicación móvil "Grano" (en adelante, "la Aplicación"), una plataforma destinada a la publicación de anuncios clasificados y punto de encuentro entre fotógrafos, modelos y creadores de contenido para colaboraciones y proyectos creativos.
+
+Al descargar, registrarse o utilizar la Aplicación, el usuario acepta de manera plena y sin reservas todos los términos aquí expuestos. Si no está de acuerdo con estos términos, debe abstenerse de utilizar la Aplicación.
+
+Contacto del responsable:
+Correo electrónico: granocreator@gmail.com
+
+
+2. CONTENIDO GENERADO POR EL USUARIO (UGC) Y REGLAS DE LA COMUNIDAD
+Grano es una plataforma basada en Contenido Generado por los Usuarios (UGC). Para mantener un entorno seguro y profesional, quedan estrictamente prohibidas las siguientes conductas y contenidos:
+
+- Publicación de contenido de carácter pornográfico, explícito o con desnudos no consentidos.
+- Publicación de material que incite al odio, discriminación, acoso, difamación, violencia o actividades ilegales.
+- Publicación de ofertas falsas, engañosas, spam o fraudes comerciales.
+- Subir imágenes sobre las cuales no se posean los derechos de autor o la autorización expresa de las personas que figuran en ellas.
+
+
+3. MODERACIÓN DE CONTENIDO, REPORTE Y BLOQUEO
+Para cumplir con las normativas de seguridad de la plataforma:
+
+- Sistema de Reporte: La Aplicación dispone de herramientas visibles en cada anuncio y perfil para que los usuarios puedan denunciar contenido inapropiado o perfiles sospechosos.
+- Bloqueo de Usuarios: Los usuarios pueden bloquear a otros miembros para evitar interacciones o ver su contenido.
+- Moderación y Sanciones: La administración de Grano se reserva el derecho de revisar, retirar temporal o definitivamente cualquier anuncio, o suspender/cancelar cuentas de usuarios que infrinjan estas normas sin previo aviso.
+
+
+4. DATOS PERSONALES QUE RECOPILAMOS
+Para el funcionamiento básico de la plataforma, Grano recopila y procesa la siguiente información:
+
+- Datos de registro: Correo electrónico (granocreator@gmail.com como canal de atención), nombre de usuario y contraseña cifrada.
+- Datos de perfil y anuncios: Fotografías subidas por el usuario, descripción del perfil, oferta o demanda de colaboración, datos de contacto proporcionados voluntariamente y ubicación aproximada si el usuario decide incluirla en el anuncio.
+- Datos técnicos: Identificadores técnicos del dispositivo y registros de errores analíticos para garantizar el correcto funcionamiento de la app.
+
+4.1. Permiso de Ubicación
+La Aplicación puede solicitar acceso a la ubicación de tu dispositivo para permitir la localización aproximada o precisa de los anuncios y facilitar la búsqueda de colaboraciones o profesionales cercanos a tu zona. Este acceso solo se utiliza dentro de la Aplicación con la finalidad de mostrar y filtrar contenido relevante según tu área geográfica y no se comparte con terceros. Puedes desactivar o gestionar este permiso en cualquier momento desde los ajustes de tu dispositivo.
+
+4.2. Autenticación mediante Cuenta de Google (Google Sign-In)
+Si decides registrarte o iniciar sesión en Grano utilizando tu cuenta de Google, recopilaremos de manera segura tu dirección de correo electrónico, tu nombre de usuario y tu foto de perfil de Google para crear y validar tu cuenta en la Aplicación. No accedemos a tus contactos, correos personales ni a ningún otro dato privado de tu cuenta de Google.
+
+5. FINALIDAD Y TRATAMIENTO DE LOS DATOS
+Los datos recopilados se utilizan exclusivamente para:
+- Permitir la creación de cuenta, publicación de anuncios y conexión entre usuarios.
+- Gestionar la seguridad, moderación y prevención de fraudes en la plataforma.
+- Atender solicitudes de soporte e incidencias a través de granocreator@gmail.com.
+
+No vendemos, alquilamos ni cedemos datos personales de los usuarios a terceras empresas con fines comerciales o publicitarios.
+
+
+6. DESLINDE DE RESPONSABILIDAD
+Grano opera únicamente como un tablón de anuncios y plataforma de contacto entre partes independientes (fotógrafos, modelos, etc.). Por lo tanto:
+
+- Grano no interviene, supervisa ni se hace responsable de los acuerdos, contratos, cobros, pagos, calidad del trabajo o condiciones acordadas entre los usuarios fuera o dentro de la plataforma.
+- La asistencia a sesiones fotográficas, colaboraciones o reuniones pactadas entre usuarios es bajo la exclusiva responsabilidad de las partes involucradas.
+
+
+7. DERECHOS DEL USUARIO Y ELIMINACIÓN DE CUENTA
+De conformidad con las regulaciones de protección de datos aplicables, los usuarios tienen derecho a acceder, rectificar o solicitar la eliminación total de sus datos personales.
+
+- Eliminación de datos y cuenta: El usuario puede solicitar el borrado permanente de su cuenta y de todos los anuncios asociados enviando un correo electrónico desde la dirección registrada a: granocreator@gmail.com con el asunto "Solicitud de Eliminación de Cuenta". Todos los datos serán eliminados en un plazo máximo de 30 días.
+
+
+8. CAMBIOS EN LA POLÍTICA DE PRIVACIDAD
+Nos reservamos el derecho de actualizar esta Política de Privacidad y Términos de Servicio en cualquier momento. Se notificará a los usuarios sobre cambios significativos a través de la Aplicación o actualizando la fecha al inicio de este documento.

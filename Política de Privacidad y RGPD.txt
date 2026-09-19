@@ -1,5 +1,7 @@
 POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS (RGPD / LOPDGDD)
+
 GRANO
+
 Última actualización: 10 de septiembre de 2026
 
 AVISO IMPORTANTE: Este documento es un modelo general orientativo, no ha sido
@@ -27,31 +29,37 @@ Portugal, entre otros).
 ==================================================================
 
 2.1 Datos que nos das directamente
+
 - Datos de registro: nombre, correo electrónico, nombre de usuario, foto de
-  perfil, rol (fotógrafo / modelo / empresa).
+perfil, rol (fotógrafo / modelo / empresa).
 - Contenido: fotografías, publicaciones, anuncios, mensajes, solicitudes y
-  acuerdos de colaboración.
+acuerdos de colaboración.
 - Datos de moderación: denuncias que hagas o que se hagan sobre ti, listas de
-  usuarios que bloqueas u ocultas (estas listas son privadas: solo tú puedes
-  verlas).
+usuarios que bloqueas u ocultas (estas listas son privadas: solo tú puedes
+verlas).
 - Datos de pago: cuando compras o vendes a través del mercado de Grano, el
-  procesamiento del pago lo gestiona Stripe. Grano no almacena los datos
-  completos de tu tarjeta ni de tu cuenta bancaria, solo recibe la
-  confirmación de si el pago se ha completado.
+procesamiento del pago lo gestiona Stripe. Grano no almacena los datos
+completos de tu tarjeta ni de tu cuenta bancaria, solo recibe la
+confirmación de si el pago se ha completado.
 
 2.2 Datos que se generan por el uso de la App
+
 - Datos técnicos y de uso recogidos mediante Google Analytics para Firebase:
-  por ejemplo, pantallas visitadas, funciones utilizadas, tipo de
-  dispositivo, y estadísticas agregadas de uso de la App.
+por ejemplo, pantallas visitadas, funciones utilizadas, tipo de
+dispositivo, y estadísticas agregadas de uso de la App.
+- Informes de fallos técnicos recogidos mediante Firebase Crashlytics: si la
+App se cierra inesperadamente o encuentra un error, se envía automáticamente
+un informe con la traza técnica del fallo, el modelo y sistema operativo del
+dispositivo, y la versión de la App instalada — para poder detectar y
+corregir errores. Estos informes no incluyen a propósito el contenido de tus
+mensajes, fotos ni datos de pago.
 
 2.3 Publicidad (previsto, aún no activo)
+
 Tenemos previsto incorporar publicidad dentro de la App en el futuro. Cuando
 se active, actualizaremos esta política para especificar qué proveedor(es)
 publicitarios se utilizan, qué datos tratan y, si procede, solicitaremos tu
 consentimiento antes de mostrarte publicidad personalizada.
-
-Actualmente no utilizamos herramientas de registro de fallos como Crashlytics.
-Si en el futuro se incorporan, se actualizará esta política.
 
 ==================================================================
 3. PARA QUÉ USAMOS TUS DATOS (FINALIDAD)
@@ -59,13 +67,14 @@ Si en el futuro se incorporan, se actualizará esta política.
 
 - Crear y gestionar tu cuenta y tu perfil.
 - Permitir la publicación de fotos y anuncios, y la gestión de colaboraciones
-  y mensajes entre usuarios.
+y mensajes entre usuarios.
 - Procesar pagos y comisiones a través de Stripe.
 - Gestionar denuncias, bloqueos y ocultados para mantener un entorno seguro.
-- Analizar el uso de la App mediante Google Analytics, para entender cómo se
-  usa y mejorarla.
+- Analizar el uso de la App mediante Google Analytics, y detectar/corregir
+errores técnicos mediante Firebase Crashlytics, para entender cómo se usa y
+mejorarla.
 - Enviarte comunicaciones necesarias sobre el servicio (códigos de
-  verificación, avisos de seguridad, cambios en esta política).
+verificación, avisos de seguridad, cambios en esta política).
 - En el futuro, mostrar publicidad dentro de la App.
 
 ==================================================================
@@ -73,12 +82,13 @@ Si en el futuro se incorporan, se actualizará esta política.
 ==================================================================
 
 - Ejecución del contrato: para prestarte el servicio que solicitas al crear
-  una cuenta y usar Grano.
+una cuenta y usar Grano.
 - Interés legítimo: para la moderación de contenido, la seguridad de la
-  plataforma y la mejora del producto mediante analítica de uso.
+plataforma, la corrección de errores técnicos y la mejora del producto
+mediante analítica de uso.
 - Consentimiento: para tratamientos que lo exijan expresamente, como el uso
-  de determinadas cookies/identificadores o la publicidad personalizada
-  cuando se active esa función.
+de determinadas cookies/identificadores o la publicidad personalizada
+cuando se active esa función.
 
 ==================================================================
 5. CUÁNTO TIEMPO CONSERVAMOS TUS DATOS
@@ -89,9 +99,9 @@ tu cuenta desde los ajustes de la App, tus datos personales, fotos y
 publicaciones se eliminan de nuestros sistemas, salvo:
 
 - La información que debamos conservar por obligación legal (por ejemplo,
-  registros de pagos exigidos por normativa fiscal o mercantil).
+registros de pagos exigidos por normativa fiscal o mercantil).
 - Los datos necesarios para resolver una denuncia o incidencia que estuviera
-  abierta en el momento de eliminar la cuenta.
+abierta en el momento de eliminar la cuenta.
 
 ==================================================================
 6. CON QUIÉN COMPARTIMOS TUS DATOS
@@ -102,9 +112,10 @@ proveedores necesarios para prestar el servicio, que actúan como encargados
 del tratamiento (o responsables independientes, según el caso):
 
 - Google Firebase: autenticación de usuarios, base de datos, almacenamiento
-  de archivos (fotos) y Google Analytics para Firebase.
+de archivos (fotos), Google Analytics para Firebase y Firebase Crashlytics
+(informes de fallos técnicos).
 - Stripe, Inc.: procesamiento de pagos, comisiones y transferencias a
-  vendedores/prestadores de servicio.
+vendedores/prestadores de servicio.
 
 Estos proveedores pueden estar ubicados fuera del Espacio Económico Europeo.
 En ese caso, la transferencia internacional se realiza amparada en las
@@ -121,12 +132,12 @@ derechos escribiendo a granocreator@gmail.com:
 - Acceso: saber qué datos tuyos tratamos.
 - Rectificación: corregir datos inexactos o incompletos.
 - Supresión: solicitar que borremos tus datos (también puedes eliminar tu
-  cuenta directamente desde la App).
+cuenta directamente desde la App).
 - Oposición: oponerte a un tratamiento concreto de tus datos.
 - Limitación: solicitar que limitemos el uso de tus datos en determinados
-  casos.
+casos.
 - Portabilidad: recibir tus datos en un formato estructurado y de uso común
-  para poder transmitirlos a otro proveedor.
+para poder transmitirlos a otro proveedor.
 
 Si consideras que no hemos atendido correctamente tu solicitud, tienes
 derecho a presentar una reclamación ante la Agencia Española de Protección de
@@ -138,11 +149,11 @@ Datos (AEPD): www.aepd.es
 
 - La edad mínima general para usar Grano es de 18 años.
 - Los menores de 18 años solo pueden usar la App con el permiso de su padre,
-  madre o tutor legal. Podemos pedir prueba de ese consentimiento y suspender
-  cuentas de menores si no podemos verificarlo.
+madre o tutor legal. Podemos pedir prueba de ese consentimiento y suspender
+cuentas de menores si no podemos verificarlo.
 - Los tutores legales pueden solicitar en cualquier momento el acceso,
-  rectificación o eliminación de los datos del menor a su cargo, escribiendo
-  a granocreator@gmail.com.
+rectificación o eliminación de los datos del menor a su cargo, escribiendo
+a granocreator@gmail.com.
 
 ==================================================================
 9. SEGURIDAD DE LOS DATOS
